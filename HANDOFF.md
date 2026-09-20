@@ -3,8 +3,9 @@
 ## Current State
 
 - Android Kotlin project for calculating target investment allocations and rebalance amounts.
-- Private repository: https://github.com/matt-xb/investment-rebalance-tool
+- Public repository: https://github.com/matt-xb/investment-rebalance-tool
 - Gradle caches, IDE state, build output, and `local.properties` are excluded.
+- No open-source license has been selected yet; public visibility alone does not grant reuse rights.
 
 ## Verification
 
@@ -14,3 +15,4 @@
 ## Next Step
 
 - Restore the local Android SDK path, build the debug variant, and verify calculations with known allocation examples before releasing.
+- Select and add an open-source license before inviting external reuse or contributions.
