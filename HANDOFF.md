@@ -11,6 +11,8 @@
 
 - Source snapshot uploaded on 2026-09-20.
 - Android build and calculation acceptance were not rerun during repository organization.
+- GitHub prerelease `v0.1.0` contains `investment-rebalance-v0.1.0-debug.apk` (10,533,487 bytes, SHA-256 `d8a122042def6194cc462e49c5b75a11b607426b65d1f3b520218b5fe7d11017`).
+- APK metadata confirms application ID `com.example.rebalance`, version `0.1.0`, min SDK 26, target SDK 35; APK Signature Scheme v2 verification passes with the Android Debug certificate.
 
 ## Next Step
 
